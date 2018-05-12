@@ -1,0 +1,36 @@
+_repo: A-History-of-the-McGuffey-Readers_15577
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vail, Henry Hobart
+    birthdate: 1839
+    deathdate: 1925
+    gutenberg_agent_id: '6134'
+    url: http://www.gutenberg.org/2009/agents/6134
+description: '[The McGuffey readers] "represent the first efforts in an educational
+  and business enterprise that has for three quarters of a century called for the
+  best exertions of many skilled men, and in their several forms these books have
+  taken a conspicuous part in the education of millions of the citizens of this country.
+  But what interest can the history of the McGuffey Eclectic Readers have to those
+  who did not use these books in their school career? Their story differs from that
+  of other readers since in successive forms, adjusted more or less perfectly to the
+  changing demands of the schools, they attained a wider and more prolonged use than
+  has been accorded to any other series" --p. 2.'
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2005-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15577'
+  lccn: '11017495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'McGuffey, William Holmes, 1800-1873'
+- !lcc 'PE'
+title: A History of the McGuffey Readers
+url: http://www.gutenberg.org/ebooks/15577
