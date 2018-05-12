@@ -19,6 +19,8 @@ description: '[The McGuffey readers] "represent the first efforts in an educatio
   of other readers since in successive forms, adjusted more or less perfectly to the
   changing demands of the schools, they attained a wider and more prolonged use than
   has been accorded to any other series" --p. 2.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15577#A-History-of-the-McGuffey-Readers
 gutenberg_bookshelf: Children's Instructional Books
 gutenberg_issued: '2005-04-07'
 gutenberg_type: Text
